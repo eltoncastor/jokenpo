@@ -1,4 +1,4 @@
-from utilidades import br, clear, Colors, Hr
+from utilities import br, clear, Colors, Hr
 from random import choice
 from time import sleep
 
